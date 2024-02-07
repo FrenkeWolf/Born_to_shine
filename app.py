@@ -12,6 +12,9 @@ def index():
 @app.route('/about')
 def about():
     return "<p>о нас</p>"
-#kkl;k
+
+#bmgtl;m;lngm
+
+
 if __name__ == '__main__':
     app.run(debug=True)
